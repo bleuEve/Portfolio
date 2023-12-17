@@ -1,0 +1,81 @@
+body{
+    margin-top: 50px;;
+    
+}
+navbar {
+    width: 100%;
+    margin: 0;
+    position: fixed;
+    display: flex;
+}
+.navbar-brand, .nav-item{
+    font-family: 'Comfortaa', sans-serif; 
+}
+
+
+container-fluid{
+    padding: 0 !important;
+}
+
+.home-desc{
+    margin-top: 100px;
+    text-align: left;
+    color: #4120a8;
+    font-family: 'Comfortaa', sans-serif; 
+}
+
+.title-about{
+    font-family: 'Comfortaa', sans-serif; 
+    text-align: center;
+    color: #4120a8;
+
+}
+
+
+.desc-about{
+    text-align: center;
+    color: #4120a8;
+    margin-top:10px;
+    font-family: 'Comfortaa', sans-serif; 
+    
+}
+
+.accordion-button,.accordion-body{
+    text-align: start;
+    color: #4120a8;
+    font-family: 'Comfortaa', sans-serif; 
+}
+
+container{
+    line-height: 0%;
+}
+
+.svg{
+    margin-bottom: -1px;
+}
+
+
+
+.card-body{
+    text-align: center;
+    color: #4120a8;
+    font-family: 'Comfortaa', sans-serif; 
+}
+
+.card-title{
+    color: #4120a8;
+    font-family: 'Comfortaa', sans-serif; 
+}
+
+label{
+    color: #4120a8;
+    font-family: 'Comfortaa', sans-serif; 
+}
+
+
+
+.footer-text{
+    color: #4120a8;
+    font-family: 'Comfortaa', sans-serif; 
+}
+
